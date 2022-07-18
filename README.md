@@ -17,5 +17,5 @@
 `resources\app.asar.unpacked\node_modules\greenworks\deps\steamworks_sdk\redistributable_bin\win64\steam_api64.dll` 并配置模拟器
 
 ## 下载
-[Ficket_Crack.7z](https://raw.githubusercontent.com/oureveryday/FicketDemo_Crack/main/Ficket_Crack.7z)
+[Ficket_Crack.7z](https://raw.githubusercontent.com/oureveryday/FicketDemo_Crack/master/Ficket_Crack.7z)
 (Steam Appid: 1634720/Build:14723591)
